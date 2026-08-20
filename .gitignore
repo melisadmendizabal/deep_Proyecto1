@@ -1,2 +1,4 @@
 *.tmp
-*.docx
+*.docx_
+__pycache__/
+*.pyc
